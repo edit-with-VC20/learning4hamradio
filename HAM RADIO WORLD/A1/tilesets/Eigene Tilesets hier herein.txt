@@ -1,0 +1,3 @@
+Falls nur eine einzelne Datei benötigt wird, diese so nennen wie der Stand.png
+
+Falls es mehr Tilesets sind, bitte einen Unterordner mit dem Namen des Stands anlegen und die Tilesets dort ablegen.
